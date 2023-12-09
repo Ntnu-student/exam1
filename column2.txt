@@ -1,0 +1,357 @@
+<a href="/wiki/Oslo" title="Oslo">Oslo</a>
+<a href="/wiki/Eigersund" title="Eigersund">Eigersund</a>
+<a href="/wiki/Stavanger" title="Stavanger">Stavanger</a>
+<a href="/wiki/Haugesund" title="Haugesund">Haugesund</a>
+<a href="/wiki/Sandnes" title="Sandnes">Sandnes</a>
+<a href="/wiki/Sokndal" title="Sokndal">Sokndal</a>
+<a href="/wiki/Lund,_Norway" title="Lund, Norway">Lund</a>
+<a href="/wiki/Bjerkreim" title="Bjerkreim">Bjerkreim</a>
+<span data-sort-value="Haa&#160;!"><a href="/wiki/H%C3%A5" title="Hå">Hå</a></span>
+<a href="/wiki/Klepp" title="Klepp">Klepp</a>
+<a href="/wiki/Time,_Norway" title="Time, Norway">Time</a>
+<a href="/wiki/Gjesdal" title="Gjesdal">Gjesdal</a>
+<a href="/wiki/Sola,_Norway" title="Sola, Norway">Sola</a>
+<a href="/wiki/Randaberg" title="Randaberg">Randaberg</a>
+<a href="/wiki/Strand,_Norway" title="Strand, Norway">Strand</a>
+<a href="/wiki/Hjelmeland" title="Hjelmeland">Hjelmeland</a>
+<a href="/wiki/Suldal" title="Suldal">Suldal</a>
+<a href="/wiki/Sauda" title="Sauda">Sauda</a>
+<span data-sort-value="Kvitsoy&#160;!"><a href="/wiki/Kvits%C3%B8y" title="Kvitsøy">Kvitsøy</a></span>
+<a href="/wiki/Bokn" title="Bokn">Bokn</a>
+<span data-sort-value="Tysvaer&#160;!"><a href="/wiki/Tysv%C3%A6r" title="Tysvær">Tysvær</a></span>
+<span data-sort-value="Karmoy&#160;!"><a href="/wiki/Karm%C3%B8y" title="Karmøy">Karmøy</a></span>
+<a href="/wiki/Utsira" title="Utsira">Utsira</a>
+<a href="/wiki/Vindafjord" title="Vindafjord">Vindafjord</a>
+<a href="/wiki/Kristiansund" title="Kristiansund">Kristiansund</a>
+<a href="/wiki/Molde" title="Molde">Molde</a>
+<a href="/wiki/%C3%85lesund" title="Ålesund">Ålesund</a>
+<a href="/wiki/Vanylven" title="Vanylven">Vanylven</a>
+<a href="/wiki/Sande,_M%C3%B8re_og_Romsdal" title="Sande, Møre og Romsdal">Sande</a>
+<span data-sort-value="Heroy&#160;!"><a href="/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal" title="Herøy, Møre og Romsdal">Herøy</a></span>
+<a href="/wiki/Ulstein" title="Ulstein">Ulstein</a>
+<a href="/wiki/Hareid" title="Hareid">Hareid</a>
+<span data-sort-value="Orsta&#160;!"><a href="/wiki/%C3%98rsta" title="Ørsta">Ørsta</a></span>
+<a href="/wiki/Stranda" title="Stranda">Stranda</a>
+<a href="/wiki/Sykkylven" title="Sykkylven">Sykkylven</a>
+<a href="/wiki/Sula,_M%C3%B8re_og_Romsdal" title="Sula, Møre og Romsdal">Sula</a>
+<a href="/wiki/Giske" title="Giske">Giske</a>
+<a href="/wiki/Vestnes" title="Vestnes">Vestnes</a>
+<a href="/wiki/Rauma,_Norway" title="Rauma, Norway">Rauma</a>
+<a href="/wiki/Aukra" title="Aukra">Aukra</a>
+<span data-sort-value="Averoy&#160;!"><a href="/wiki/Aver%C3%B8y" title="Averøy">Averøy</a></span>
+<a href="/wiki/Gjemnes" title="Gjemnes">Gjemnes</a>
+<a href="/wiki/Tingvoll" title="Tingvoll">Tingvoll</a>
+<a href="/wiki/Sunndal" title="Sunndal">Sunndal</a>
+<a href="/wiki/Surnadal" title="Surnadal">Surnadal</a>
+<span data-sort-value="Smola&#160;!"><a href="/wiki/Sm%C3%B8la" title="Smøla">Smøla</a></span>
+<a href="/wiki/Aure,_Norway" title="Aure, Norway">Aure</a>
+<a href="/wiki/Volda" title="Volda">Volda</a>
+<a href="/wiki/Fjord_(municipality)" title="Fjord (municipality)">Fjord</a>
+<a href="/wiki/Hustadvika_(municipality)" title="Hustadvika (municipality)">Hustadvika</a>
+<span data-sort-value="Bodo&#160;!"><a href="/wiki/Bod%C3%B8" title="Bodø">Bodø</a></span>
+<a href="/wiki/Narvik" title="Narvik">Narvik</a>
+<a href="/wiki/Bindal" title="Bindal">Bindal</a>
+<span data-sort-value="Somna&#160;!"><a href="/wiki/S%C3%B8mna" title="Sømna">Sømna</a></span>
+<span data-sort-value="Bronnoy&#160;!"><a href="/wiki/Br%C3%B8nn%C3%B8y" title="Brønnøy">Brønnøy</a></span>
+<a href="/wiki/Vega,_Norway" title="Vega, Norway">Vega</a>
+<a href="/wiki/Vevelstad" title="Vevelstad">Vevelstad</a>
+<span data-sort-value="Heroy&#160;!"><a href="/wiki/Her%C3%B8y,_Nordland" title="Herøy, Nordland">Herøy</a></span>
+<a href="/wiki/Alstahaug" title="Alstahaug">Alstahaug</a>
+<a href="/wiki/Leirfjord" title="Leirfjord">Leirfjord</a>
+<a href="/wiki/Vefsn" title="Vefsn">Vefsn</a>
+<a href="/wiki/Grane,_Nordland" title="Grane, Nordland">Grane</a>
+<a href="/wiki/Hattfjelldal" title="Hattfjelldal">Hattfjelldal</a>
+<span data-sort-value="Donna&#160;!"><a href="/wiki/D%C3%B8nna" title="Dønna">Dønna</a></span>
+<a href="/wiki/Nesna" title="Nesna">Nesna</a>
+<a href="/wiki/Hemnes" title="Hemnes">Hemnes</a>
+<a href="/wiki/Rana,_Norway" title="Rana, Norway">Rana</a>
+<span data-sort-value="Luroy&#160;!"><a href="/wiki/Lur%C3%B8y" title="Lurøy">Lurøy</a></span>
+<span data-sort-value="Traena&#160;!"><a href="/wiki/Tr%C3%A6na" title="Træna">Træna</a></span>
+<span data-sort-value="Rodoy&#160;!"><a href="/wiki/R%C3%B8d%C3%B8y" title="Rødøy">Rødøy</a></span>
+<span data-sort-value="Meloy&#160;!"><a href="/wiki/Mel%C3%B8y" title="Meløy">Meløy</a></span>
+<span data-sort-value="Gildeskaal&#160;!"><a href="/wiki/Gildesk%C3%A5l" title="Gildeskål">Gildeskål</a></span>
+<a href="/wiki/Beiarn" title="Beiarn">Beiarn</a>
+<a href="/wiki/Saltdal" title="Saltdal">Saltdal</a>
+<a href="/wiki/Fauske" title="Fauske">Fauske</a>
+<span data-sort-value="Sorfold&#160;!"><a href="/wiki/S%C3%B8rfold" title="Sørfold">Sørfold</a></span>
+<a href="/wiki/Steigen" title="Steigen">Steigen</a>
+<span data-sort-value="Lodingen&#160;!"><a href="/wiki/L%C3%B8dingen" title="Lødingen">Lødingen</a></span>
+<a href="/wiki/Evenes" title="Evenes">Evenes</a>
+<span data-sort-value="Rost&#160;!"><a href="/wiki/R%C3%B8st" title="Røst">Røst</a></span>
+<span data-sort-value="Vaeroy&#160;!"><a href="/wiki/V%C3%A6r%C3%B8y" title="Værøy">Værøy</a></span>
+<a href="/wiki/Flakstad" title="Flakstad">Flakstad</a>
+<span data-sort-value="Vestvagoy&#160;!"><a href="/wiki/Vestv%C3%A5g%C3%B8y" title="Vestvågøy">Vestvågøy</a></span>
+<span data-sort-value="Vaagan&#160;!"><a href="/wiki/V%C3%A5gan" title="Vågan">Vågan</a></span>
+<a href="/wiki/Hadsel" title="Hadsel">Hadsel</a>
+<span data-sort-value="Bo&#160;!"><a href="/wiki/B%C3%B8,_Nordland" title="Bø, Nordland">Bø</a></span>
+<span data-sort-value="Oksnes&#160;!"><a href="/wiki/%C3%98ksnes" title="Øksnes">Øksnes</a></span>
+<a href="/wiki/Sortland" title="Sortland">Sortland</a>
+<span data-sort-value="Andoy&#160;!"><a href="/wiki/And%C3%B8y" title="Andøy">Andøy</a></span>
+<a href="/wiki/Moskenes" title="Moskenes">Moskenes</a>
+<span data-sort-value="Hamaroy&#160;!"><a href="/wiki/Hamar%C3%B8y" title="Hamarøy">Hamarøy</a><br /><span title="Lule Sami-language text"><i lang="smj"><a href="/wiki/Hamar%C3%B8y" title="Hamarøy">Hábmer</a></i></span></span>
+<a href="/wiki/Halden" title="Halden">Halden</a>
+<a href="/wiki/Moss,_Norway" title="Moss, Norway">Moss</a>
+<a href="/wiki/Sarpsborg" title="Sarpsborg">Sarpsborg</a>
+<a href="/wiki/Fredrikstad" title="Fredrikstad">Fredrikstad</a>
+<a href="/wiki/Drammen" title="Drammen">Drammen</a>
+<a href="/wiki/Kongsberg" title="Kongsberg">Kongsberg</a>
+<a href="/wiki/Ringerike_(municipality)" title="Ringerike (municipality)">Ringerike</a>
+<a href="/wiki/Hvaler" title="Hvaler">Hvaler</a>
+<a href="/wiki/Aremark" title="Aremark">Aremark</a>
+<a href="/wiki/Marker,_Norway" title="Marker, Norway">Marker</a>
+<a href="/wiki/Indre_%C3%98stfold_municipality" class="mw-redirect" title="Indre Østfold municipality">Indre Østfold</a>
+<a href="/wiki/Skiptvet" title="Skiptvet">Skiptvet</a>
+<a href="/wiki/Rakkestad" title="Rakkestad">Rakkestad</a>
+<span data-sort-value="Raade&#160;!"><a href="/wiki/R%C3%A5de" title="Råde">Råde</a></span>
+<span data-sort-value="Vaaler&#160;!"><a href="/wiki/V%C3%A5ler,_%C3%98stfold" class="mw-redirect" title="Våler, Østfold">Våler</a></span>
+<a href="/wiki/Vestby" title="Vestby">Vestby</a>
+<a href="/wiki/Nordre_Follo" title="Nordre Follo">Nordre Follo</a>
+<span data-sort-value="Aas&#160;!"><a href="/wiki/%C3%85s,_Akershus" class="mw-redirect" title="Ås, Akershus">Ås</a></span>
+<a href="/wiki/Frogn" title="Frogn">Frogn</a>
+<a href="/wiki/Nesodden" title="Nesodden">Nesodden</a>
+<span data-sort-value="Baerum&#160;!"><a href="/wiki/B%C3%A6rum" title="Bærum">Bærum</a></span>
+<a href="/wiki/Asker" title="Asker">Asker</a>
+<span data-sort-value="Aurskog-Holand&#160;!"><a href="/wiki/Aurskog-H%C3%B8land" title="Aurskog-Høland">Aurskog-Høland</a></span>
+<span data-sort-value="Raelingen&#160;!"><a href="/wiki/R%C3%A6lingen" title="Rælingen">Rælingen</a></span>
+<a href="/wiki/Enebakk" title="Enebakk">Enebakk</a>
+<span data-sort-value="Lorenskog&#160;!"><a href="/wiki/L%C3%B8renskog" title="Lørenskog">Lørenskog</a></span>
+<span data-sort-value="Lillestrom&#160;!"><a href="/wiki/Lillestr%C3%B8m" title="Lillestrøm">Lillestrøm</a></span>
+<a href="/wiki/Nittedal" title="Nittedal">Nittedal</a>
+<a href="/wiki/Gjerdrum" title="Gjerdrum">Gjerdrum</a>
+<a href="/wiki/Ullensaker" title="Ullensaker">Ullensaker</a>
+<a href="/wiki/Nes,_Akershus" class="mw-redirect" title="Nes, Akershus">Nes</a>
+<a href="/wiki/Eidsvoll" title="Eidsvoll">Eidsvoll</a>
+<a href="/wiki/Nannestad" title="Nannestad">Nannestad</a>
+<a href="/wiki/Hurdal" title="Hurdal">Hurdal</a>
+<a href="/wiki/Hole,_Norway" title="Hole, Norway">Hole</a>
+<span data-sort-value="Flaa&#160;!"><a href="/wiki/Fl%C3%A5" title="Flå">Flå</a></span>
+<a href="/wiki/Nesbyen_(municipality)" title="Nesbyen (municipality)">Nesbyen</a>
+<a href="/wiki/Gol,_Norway" title="Gol, Norway">Gol</a>
+<a href="/wiki/Hemsedal" title="Hemsedal">Hemsedal</a>
+<span data-sort-value="Aal&#160;!"><a href="/wiki/%C3%85l" title="Ål">Ål</a></span>
+<a href="/wiki/Hol" title="Hol">Hol</a>
+<a href="/wiki/Sigdal" title="Sigdal">Sigdal</a>
+<span data-sort-value="Krodsherad&#160;!"><a href="/wiki/Kr%C3%B8dsherad" title="Krødsherad">Krødsherad</a></span>
+<a href="/wiki/Modum" title="Modum">Modum</a>
+<span data-sort-value="Ovre Eiker&#160;!"><a href="/wiki/%C3%98vre_Eiker" title="Øvre Eiker">Øvre Eiker</a></span>
+<a href="/wiki/Lier,_Norway" title="Lier, Norway">Lier</a>
+<a href="/wiki/Flesberg" title="Flesberg">Flesberg</a>
+<a href="/wiki/Rollag" title="Rollag">Rollag</a>
+<a href="/wiki/Nore_og_Uvdal" title="Nore og Uvdal">Nore og Uvdal</a>
+<a href="/wiki/Jevnaker" title="Jevnaker">Jevnaker</a>
+<a href="/wiki/Lunner" title="Lunner">Lunner</a>
+<a href="/wiki/Kongsvinger" title="Kongsvinger">Kongsvinger</a>
+<a href="/wiki/Hamar_Municipality" title="Hamar Municipality">Hamar</a>
+<a href="/wiki/Lillehammer" title="Lillehammer">Lillehammer</a>
+<span data-sort-value="Gjovik&#160;!"><a href="/wiki/Gj%C3%B8vik" title="Gjøvik">Gjøvik</a></span>
+<a href="/wiki/Ringsaker" title="Ringsaker">Ringsaker</a>
+<span data-sort-value="Loten&#160;!"><a href="/wiki/L%C3%B8ten" title="Løten">Løten</a></span>
+<a href="/wiki/Stange" title="Stange">Stange</a>
+<a href="/wiki/Nord-Odal" title="Nord-Odal">Nord-Odal</a>
+<span data-sort-value="Sor-Odal&#160;!"><a href="/wiki/S%C3%B8r-Odal" title="Sør-Odal">Sør-Odal</a></span>
+<a href="/wiki/Eidskog" title="Eidskog">Eidskog</a>
+<a href="/wiki/Grue,_Norway" title="Grue, Norway">Grue</a>
+<span data-sort-value="Aasnes&#160;!"><a href="/wiki/%C3%85snes" title="Åsnes">Åsnes</a></span>
+<span data-sort-value="Vaaler&#160;!"><a href="/wiki/V%C3%A5ler,_Hedmark" class="mw-redirect" title="Våler, Hedmark">Våler</a></span>
+<a href="/wiki/Elverum" title="Elverum">Elverum</a>
+<a href="/wiki/Trysil" title="Trysil">Trysil</a>
+<span data-sort-value="Aamot&#160;!"><a href="/wiki/%C3%85mot" title="Åmot">Åmot</a></span>
+<a href="/wiki/Stor-Elvdal" title="Stor-Elvdal">Stor-Elvdal</a>
+<a href="/wiki/Rendalen" title="Rendalen">Rendalen</a>
+<a href="/wiki/Engerdal" title="Engerdal">Engerdal</a>
+<a href="/wiki/Tolga,_Norway" title="Tolga, Norway">Tolga</a>
+<a href="/wiki/Tynset" title="Tynset">Tynset</a>
+<a href="/wiki/Alvdal" title="Alvdal">Alvdal</a>
+<a href="/wiki/Folldal" title="Folldal">Folldal</a>
+<a href="/wiki/Os,_Innlandet" title="Os, Innlandet">Os</a>
+<a href="/wiki/Dovre" title="Dovre">Dovre</a>
+<a href="/wiki/Lesja" title="Lesja">Lesja</a>
+<span data-sort-value="Skjaak&#160;!"><a href="/wiki/Skj%C3%A5k" title="Skjåk">Skjåk</a></span>
+<a href="/wiki/Lom,_Norway" title="Lom, Norway">Lom</a>
+<span data-sort-value="Vaagaa&#160;!"><a href="/wiki/V%C3%A5g%C3%A5" title="Vågå">Vågå</a></span>
+<a href="/wiki/Nord-Fron" title="Nord-Fron">Nord-Fron</a>
+<a href="/wiki/Sel" title="Sel">Sel</a>
+<span data-sort-value="Sor-Fron&#160;!"><a href="/wiki/S%C3%B8r-Fron" title="Sør-Fron">Sør-Fron</a></span>
+<a href="/wiki/Ringebu" title="Ringebu">Ringebu</a>
+<span data-sort-value="Oyer&#160;!"><a href="/wiki/%C3%98yer" title="Øyer">Øyer</a></span>
+<a href="/wiki/Gausdal" title="Gausdal">Gausdal</a>
+<span data-sort-value="Ostre Toten&#160;!"><a href="/wiki/%C3%98stre_Toten" title="Østre Toten">Østre Toten</a></span>
+<a href="/wiki/Vestre_Toten" title="Vestre Toten">Vestre Toten</a>
+<a href="/wiki/Gran,_Norway" title="Gran, Norway">Gran</a>
+<span data-sort-value="Sondre Land&#160;!"><a href="/wiki/S%C3%B8ndre_Land" title="Søndre Land">Søndre Land</a></span>
+<a href="/wiki/Nordre_Land" title="Nordre Land">Nordre Land</a>
+<span data-sort-value="Sor-Aurdal&#160;!"><a href="/wiki/S%C3%B8r-Aurdal" title="Sør-Aurdal">Sør-Aurdal</a></span>
+<a href="/wiki/Etnedal" title="Etnedal">Etnedal</a>
+<a href="/wiki/Nord-Aurdal" title="Nord-Aurdal">Nord-Aurdal</a>
+<a href="/wiki/Vestre_Slidre" title="Vestre Slidre">Vestre Slidre</a>
+<span data-sort-value="Oystre Slidre&#160;!"><a href="/wiki/%C3%98ystre_Slidre" title="Øystre Slidre">Øystre Slidre</a></span>
+<a href="/wiki/Vang,_Innlandet" title="Vang, Innlandet">Vang</a>
+<a href="/wiki/Horten" title="Horten">Horten</a>
+<a href="/wiki/Holmestrand" title="Holmestrand">Holmestrand</a>
+<span data-sort-value="Tonsberg&#160;!"><a href="/wiki/T%C3%B8nsberg" title="Tønsberg">Tønsberg</a></span>
+<a href="/wiki/Sandefjord" title="Sandefjord">Sandefjord</a>
+<a href="/wiki/Larvik" title="Larvik">Larvik</a>
+<a href="/wiki/Porsgrunn" title="Porsgrunn">Porsgrunn</a>
+<a href="/wiki/Skien" title="Skien">Skien</a>
+<a href="/wiki/Notodden" title="Notodden">Notodden</a>
+<span data-sort-value="Faerder&#160;!"><a href="/wiki/F%C3%A6rder" title="Færder">Færder</a></span>
+<a href="/wiki/Siljan,_Norway" title="Siljan, Norway">Siljan</a>
+<a href="/wiki/Bamble" title="Bamble">Bamble</a>
+<span data-sort-value="Kragero&#160;!"><a href="/wiki/Krager%C3%B8" title="Kragerø">Kragerø</a></span>
+<a href="/wiki/Drangedal" title="Drangedal">Drangedal</a>
+<a href="/wiki/Nome,_Norway" title="Nome, Norway">Nome</a>
+<a href="/wiki/Midt-Telemark_(municipality)" title="Midt-Telemark (municipality)">Midt-Telemark</a>
+<a href="/wiki/Tinn" title="Tinn">Tinn</a>
+<a href="/wiki/Hjartdal" title="Hjartdal">Hjartdal</a>
+<a href="/wiki/Seljord" title="Seljord">Seljord</a>
+<a href="/wiki/Kviteseid" title="Kviteseid">Kviteseid</a>
+<a href="/wiki/Nissedal" title="Nissedal">Nissedal</a>
+<a href="/wiki/Fyresdal" title="Fyresdal">Fyresdal</a>
+<a href="/wiki/Tokke" title="Tokke">Tokke</a>
+<a href="/wiki/Vinje" title="Vinje">Vinje</a>
+<span data-sort-value="Risor&#160;!"><a href="/wiki/Ris%C3%B8r" title="Risør">Risør</a></span>
+<a href="/wiki/Grimstad" title="Grimstad">Grimstad</a>
+<a href="/wiki/Arendal" title="Arendal">Arendal</a>
+<a href="/wiki/Kristiansand" title="Kristiansand">Kristiansand</a>
+<a href="/wiki/Lindesnes" title="Lindesnes">Lindesnes</a>
+<a href="/wiki/Farsund" title="Farsund">Farsund</a>
+<a href="/wiki/Flekkefjord" title="Flekkefjord">Flekkefjord</a>
+<a href="/wiki/Gjerstad" title="Gjerstad">Gjerstad</a>
+<span data-sort-value="Vegaarshei&#160;!"><a href="/wiki/Veg%C3%A5rshei" title="Vegårshei">Vegårshei</a></span>
+<a href="/wiki/Tvedestrand" title="Tvedestrand">Tvedestrand</a>
+<a href="/wiki/Froland" title="Froland">Froland</a>
+<a href="/wiki/Lillesand" title="Lillesand">Lillesand</a>
+<a href="/wiki/Birkenes" title="Birkenes">Birkenes</a>
+<span data-sort-value="Aamli&#160;!"><a href="/wiki/%C3%85mli" title="Åmli">Åmli</a></span>
+<a href="/wiki/Iveland" title="Iveland">Iveland</a>
+<a href="/wiki/Evje_og_Hornnes" title="Evje og Hornnes">Evje og Hornnes</a>
+<a href="/wiki/Bygland" title="Bygland">Bygland</a>
+<a href="/wiki/Valle,_Norway" title="Valle, Norway">Valle</a>
+<a href="/wiki/Bykle" title="Bykle">Bykle</a>
+<a href="/wiki/Vennesla" title="Vennesla">Vennesla</a>
+<span data-sort-value="Aaseral&#160;!"><a href="/wiki/%C3%85seral" title="Åseral">Åseral</a></span>
+<a href="/wiki/Lyngdal" title="Lyngdal">Lyngdal</a>
+<span data-sort-value="Haegbostad&#160;!"><a href="/wiki/H%C3%A6gebostad" title="Hægebostad">Hægebostad</a></span>
+<a href="/wiki/Kvinesdal" title="Kvinesdal">Kvinesdal</a>
+<a href="/wiki/Sirdal" title="Sirdal">Sirdal</a>
+<a href="/wiki/Bergen" title="Bergen">Bergen</a>
+<a href="/wiki/Kinn" title="Kinn">Kinn</a>
+<a href="/wiki/Etne" title="Etne">Etne</a>
+<a href="/wiki/Sveio" title="Sveio">Sveio</a>
+<span data-sort-value="Bomlo&#160;!"><a href="/wiki/B%C3%B8mlo" title="Bømlo">Bømlo</a></span>
+<a href="/wiki/Stord" title="Stord">Stord</a>
+<a href="/wiki/Fitjar" title="Fitjar">Fitjar</a>
+<a href="/wiki/Tysnes" title="Tysnes">Tysnes</a>
+<a href="/wiki/Kvinnherad" title="Kvinnherad">Kvinnherad</a>
+<a href="/wiki/Ullensvang" title="Ullensvang">Ullensvang</a>
+<a href="/wiki/Eidfjord" title="Eidfjord">Eidfjord</a>
+<a href="/wiki/Ulvik" title="Ulvik">Ulvik</a>
+<a href="/wiki/Voss" title="Voss">Voss</a>
+<a href="/wiki/Kvam" title="Kvam">Kvam</a>
+<a href="/wiki/Samnanger" title="Samnanger">Samnanger</a>
+<a href="/wiki/Bj%C3%B8rnafjorden_(municipality)" title="Bjørnafjorden (municipality)">Bjørnafjorden</a>
+<a href="/wiki/Austevoll" title="Austevoll">Austevoll</a>
+<span data-sort-value="Oygarden&#160;!"><a href="/wiki/%C3%98ygarden" title="Øygarden">Øygarden</a></span>
+<span data-sort-value="Askoy&#160;!"><a href="/wiki/Ask%C3%B8y" title="Askøy">Askøy</a></span>
+<a href="/wiki/Vaksdal" title="Vaksdal">Vaksdal</a>
+<a href="/wiki/Modalen" title="Modalen">Modalen</a>
+<span data-sort-value="Osteroy&#160;!"><a href="/wiki/Oster%C3%B8y" title="Osterøy">Osterøy</a></span>
+<a href="/wiki/Alver_(municipality)" title="Alver (municipality)">Alver</a>
+<a href="/wiki/Austrheim" title="Austrheim">Austrheim</a>
+<a href="/wiki/Fedje" title="Fedje">Fedje</a>
+<a href="/wiki/Masfjorden" title="Masfjorden">Masfjorden</a>
+<a href="/wiki/Gulen" title="Gulen">Gulen</a>
+<a href="/wiki/Solund" title="Solund">Solund</a>
+<a href="/wiki/Hyllestad" title="Hyllestad">Hyllestad</a>
+<span data-sort-value="Hoyanger&#160;!"><a href="/wiki/H%C3%B8yanger" title="Høyanger">Høyanger</a></span>
+<a href="/wiki/Vik" title="Vik">Vik</a>
+<a href="/wiki/Sogndal" title="Sogndal">Sogndal</a>
+<a href="/wiki/Aurland" title="Aurland">Aurland</a>
+<span data-sort-value="Laerdal&#160;!"><a href="/wiki/L%C3%A6rdal" title="Lærdal">Lærdal</a></span>
+<span data-sort-value="Aardal&#160;!"><a href="/wiki/%C3%85rdal" title="Årdal">Årdal</a></span>
+<a href="/wiki/Luster,_Norway" title="Luster, Norway">Luster</a>
+<a href="/wiki/Askvoll" title="Askvoll">Askvoll</a>
+<a href="/wiki/Fjaler" title="Fjaler">Fjaler</a>
+<a href="/wiki/Sunnfjord_(municipality)" title="Sunnfjord (municipality)">Sunnfjord</a>
+<a href="/wiki/Bremanger" title="Bremanger">Bremanger</a>
+<a href="/wiki/Stad,_Norway" title="Stad, Norway">Stad</a>
+<a href="/wiki/Gloppen" title="Gloppen">Gloppen</a>
+<a href="/wiki/Stryn" title="Stryn">Stryn</a>
+<a href="/wiki/Trondheim" title="Trondheim">Trondheim</a>
+<a href="/wiki/Steinkjer" title="Steinkjer">Steinkjer</a>
+<a href="/wiki/Namsos" title="Namsos">Namsos</a>
+<span data-sort-value="Froya&#160;!"><a href="/wiki/Fr%C3%B8ya,_Tr%C3%B8ndelag" title="Frøya, Trøndelag">Frøya</a></span>
+<a href="/wiki/Osen" title="Osen">Osen</a>
+<a href="/wiki/Oppdal" title="Oppdal">Oppdal</a>
+<a href="/wiki/Rennebu" title="Rennebu">Rennebu</a>
+<span data-sort-value="Roros&#160;!"><a href="/wiki/R%C3%B8ros" title="Røros">Røros</a></span>
+<span data-sort-value="Holtaalen&#160;!"><a href="/wiki/Holt%C3%A5len" title="Holtålen">Holtålen</a></span>
+<a href="/wiki/Midtre_Gauldal" title="Midtre Gauldal">Midtre Gauldal</a>
+<a href="/wiki/Melhus" title="Melhus">Melhus</a>
+<a href="/wiki/Skaun" title="Skaun">Skaun</a>
+<a href="/wiki/Malvik" title="Malvik">Malvik</a>
+<a href="/wiki/Selbu" title="Selbu">Selbu</a>
+<a href="/wiki/Tydal" title="Tydal">Tydal</a>
+<span data-sort-value="Meraaker&#160;!"><a href="/wiki/Mer%C3%A5ker" title="Meråker">Meråker</a></span>
+<span data-sort-value="Stjordal&#160;!"><a href="/wiki/Stj%C3%B8rdal" title="Stjørdal">Stjørdal</a></span>
+<a href="/wiki/Frosta" title="Frosta">Frosta</a>
+<a href="/wiki/Levanger" title="Levanger">Levanger</a>
+<a href="/wiki/Verdal" title="Verdal">Verdal</a>
+<span data-sort-value="Snaasa&#160;!"><a href="/wiki/Sn%C3%A5sa" title="Snåsa">Snåsa</a><br /><span title="Southern Sami-language text"><i lang="sma"><a href="/wiki/Sn%C3%A5sa" title="Snåsa">Snåase</a></i></span></span>
+<a href="/wiki/Lierne" title="Lierne">Lierne</a>
+<span data-sort-value="Royrvik&#160;!"><a href="/wiki/R%C3%B8yrvik" title="Røyrvik">Røyrvik</a><br /><span title="Southern Sami-language text"><i lang="sma"><a href="/wiki/R%C3%B8yrvik" title="Røyrvik">Raarvihke</a></i></span></span>
+<a href="/wiki/Namsskogan" title="Namsskogan">Namsskogan</a>
+<a href="/wiki/Grong" title="Grong">Grong</a>
+<span data-sort-value="Hoylandet&#160;!"><a href="/wiki/H%C3%B8ylandet" title="Høylandet">Høylandet</a></span>
+<a href="/wiki/Overhalla" title="Overhalla">Overhalla</a>
+<a href="/wiki/Flatanger" title="Flatanger">Flatanger</a>
+<a href="/wiki/Leka,_Norway" title="Leka, Norway">Leka</a>
+<span data-sort-value="Inderoy&#160;!"><a href="/wiki/Inder%C3%B8y" title="Inderøy">Inderøy</a></span>
+<a href="/wiki/Indre_Fosen" title="Indre Fosen">Indre Fosen</a>
+<a href="/wiki/Heim,_Norway" title="Heim, Norway">Heim</a>
+<a href="/wiki/Hitra" title="Hitra">Hitra</a>
+<span data-sort-value="Orland&#160;!"><a href="/wiki/%C3%98rland" title="Ørland">Ørland</a></span>
+<span data-sort-value="Aafjord&#160;!"><a href="/wiki/%C3%85fjord" title="Åfjord">Åfjord</a></span>
+<a href="/wiki/Orkland" title="Orkland">Orkland</a>
+<span data-sort-value="Naroysund&#160;!"><a href="/wiki/N%C3%A6r%C3%B8ysund" title="Nærøysund">Nærøysund</a></span>
+<a href="/wiki/Rindal" title="Rindal">Rindal</a>
+<span data-sort-value="Tromso&#160;!"><a href="/wiki/Troms%C3%B8" title="Tromsø">Tromsø</a></span>
+<a href="/wiki/Harstad" title="Harstad">Harstad</a>
+<a href="/wiki/Alta,_Norway" title="Alta, Norway">Alta</a>
+<span data-sort-value="Vardo&#160;!"><a href="/wiki/Vard%C3%B8" title="Vardø">Vardø</a></span>
+<span data-sort-value="Vadso&#160;!"><a href="/wiki/Vads%C3%B8" title="Vadsø">Vadsø</a></span>
+<a href="/wiki/Hammerfest" title="Hammerfest">Hammerfest</a>
+<span data-sort-value="Kvaefjord&#160;!"><a href="/wiki/Kv%C3%A6fjord" title="Kvæfjord">Kvæfjord</a></span>
+<a href="/wiki/Tjeldsund" title="Tjeldsund">Tjeldsund</a>
+<a href="/wiki/Ibestad" title="Ibestad">Ibestad</a>
+<a href="/wiki/Gratangen" title="Gratangen">Gratangen</a>
+<span data-sort-value="Lavangen&#160;!"><a href="/wiki/Lavangen" title="Lavangen">Lavangen</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Lavangen" title="Lavangen">Loabák</a></i></span></span>
+<a href="/wiki/Bardu" title="Bardu">Bardu</a>
+<a href="/wiki/Salangen" title="Salangen">Salangen</a>
+<span data-sort-value="Maalselv&#160;!"><a href="/wiki/M%C3%A5lselv" title="Målselv">Målselv</a></span>
+<span data-sort-value="Sorreisa&#160;!"><a href="/wiki/S%C3%B8rreisa" title="Sørreisa">Sørreisa</a></span>
+<span data-sort-value="Dyroy&#160;!"><a href="/wiki/Dyr%C3%B8y" title="Dyrøy">Dyrøy</a></span>
+<a href="/wiki/Senja_(municipality)" title="Senja (municipality)">Senja</a>
+<a href="/wiki/Balsfjord" title="Balsfjord">Balsfjord</a>
+<span data-sort-value="Karlsoy&#160;!"><a href="/wiki/Karls%C3%B8y" title="Karlsøy">Karlsøy</a></span>
+<a href="/wiki/Lyngen" title="Lyngen">Lyngen</a>
+<span data-sort-value="Storfjord&#160;!"><a href="/wiki/Storfjord" title="Storfjord">Storfjord</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Storfjord" title="Storfjord">Omasvuotna</a></i></span><br /><span title="Kven-language text"><i lang="fkv"><a href="/wiki/Storfjord" title="Storfjord">Omasvuono</a></i></span></span>
+<span data-sort-value="Kaafjord&#160;!"><a href="/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono" title="Gáivuotna – Kåfjord – Kaivuono">Kåfjord</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono" title="Gáivuotna – Kåfjord – Kaivuono">Gáivuotna</a></i></span><br /><span title="Kven-language text"><i lang="fkv"><a href="/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono" title="Gáivuotna – Kåfjord – Kaivuono">Kaivuono</a></i></span></span>
+<span data-sort-value="Skjervoy&#160;!"><a href="/wiki/Skjerv%C3%B8y" title="Skjervøy">Skjervøy</a></span>
+<a href="/wiki/Nordreisa" title="Nordreisa">Nordreisa</a>
+<span data-sort-value="Kvaenangen&#160;!"><a href="/wiki/Kv%C3%A6nangen" title="Kvænangen">Kvænangen</a></span>
+<span data-sort-value="Kautokeino&#160;!"><a href="/wiki/Kautokeino" title="Kautokeino">Kautokeino</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Kautokeino" title="Kautokeino">Guovdageaidnu</a></i></span></span>
+<a href="/wiki/Loppa" title="Loppa">Loppa</a>
+<a href="/wiki/Hasvik" title="Hasvik">Hasvik</a>
+<span data-sort-value="Maasoy&#160;!"><a href="/wiki/M%C3%A5s%C3%B8y" title="Måsøy">Måsøy</a></span>
+<a href="/wiki/Nordkapp" title="Nordkapp">Nordkapp</a>
+<span data-sort-value="Porsanger&#160;!"><a href="/wiki/Porsanger" title="Porsanger">Porsanger</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Porsanger" title="Porsanger">Porsáŋgu</a></i></span><br /><span title="Kven-language text"><i lang="fkv"><a href="/wiki/Porsanger" title="Porsanger">Porsanki</a></i></span></span>
+<span data-sort-value="Karasjok&#160;!"><a href="/wiki/Karasjok" title="Karasjok">Karasjok</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Karasjok" title="Karasjok">Kárášjohka</a></i></span></span>
+<a href="/wiki/Lebesby" title="Lebesby">Lebesby</a>
+<a href="/wiki/Gamvik" title="Gamvik">Gamvik</a>
+<span data-sort-value="Berlevaag&#160;!"><a href="/wiki/Berlev%C3%A5g" title="Berlevåg">Berlevåg</a></span>
+<span data-sort-value="Tana&#160;!"><a href="/wiki/Tana,_Norway" title="Tana, Norway">Tana</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Tana,_Norway" title="Tana, Norway">Deatnu</a></i></span></span>
+<span data-sort-value="Nesseby&#160;!"><a href="/wiki/Nesseby" title="Nesseby">Nesseby</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Nesseby" title="Nesseby">Unjárga</a></i></span></span>
+<span data-sort-value="Baatsfjord&#160;!"><a href="/wiki/B%C3%A5tsfjord" title="Båtsfjord">Båtsfjord</a></span>
+<span data-sort-value="Sor-Varanger&#160;!"><a href="/wiki/S%C3%B8r-Varanger" title="Sør-Varanger">Sør-Varanger</a></span>
+
