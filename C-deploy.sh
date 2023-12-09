@@ -98,5 +98,5 @@ page_template='
 sed -e '/<!--REPLACEME-->/r data.html' -e '/<!--REPLACEME-->/d' <<< "$page_template" > done.html
 
 # Move the finished file and rename it to index.html into www/bing folder and restart apache2 to update the web server.
-sudo cp done.html /var/www/bing/index.html 
-sudo systemctl restart apache2
+#sudo cp done.html /var/www/bing/index.html 
+#sudo systemctl restart apache2
