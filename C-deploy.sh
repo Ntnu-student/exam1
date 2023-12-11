@@ -23,19 +23,19 @@ cut -f 5 table.txt > column5.txt
 awk 'match($0, /href="([^"]*)"/){print "https://en.wikipedia.org" substr($0, RSTART+6, RLENGTH-7)}' column2.txt > data.txt
 
 # Extract coordinates from individual municipality URLs
-truncate -s 0 coordata.txt 
+truncate -s 0 coordata.txt # Reset coordata.txt in case the file exist so that the data doesn't double up because of the >> redirection operator in the pintf section of the while loop.
 while read url; do
     pageHtml="$(curl -s "$url")"
     lat=$(echo "$pageHtml" | grep -o '<span class="latitude">[^<]*' | head -n 1 | sed 's/<span class="latitude">//' )
     lon=$(echo "$pageHtml" | grep -o '<span class="longitude">[^<]*' | head -n 1 | sed 's/<span class="longitude">//' )
-    printf "%s\t%s\n" "$lat" "$lon" >> coordata.txt
+    printf "%s\t%s\n" "$lat" "$lon" >> coordata.txt 
 done < data.txt
 
 # Splitting the coordinate data into separate files
 awk '{print $1 }' coordata.txt > lat.txt
 awk '{print $2 }' coordata.txt > lon.txt
 
-# Removing everything that isn't raw numbers
+# Removing characters and letters so that the only data incuded in the fix version is the raw numbers used for the awk below turning them into decimal
 sed -E 's/[^0-9°′″]/ /g; s/°|′|″/ /g' lat.txt > fix-lat.txt
 sed -E 's/[^0-9°′″]/ /g; s/°|′|″/ /g' lon.txt > fix-lon.txt
 
@@ -73,7 +73,7 @@ paste column2.txt merged-coords.txt column5.txt | awk -F'\t' '{
     }
 }' > "data.html"
 
-# Fixing the links by inserting the full wikipedia URL
+# Fixing the links by inserting the full wikipedia URL changing /wiki/municipality-page to https://en.wikipedia.org/wiki/municipality-page
 sed -i 's|/wiki/|https://en.wikipedia.org/wiki/|g' data.html
 
 # HTML template
@@ -97,6 +97,7 @@ page_template='
 # Render the final page by replacing placeholder with generated data
 sed -e '/<!--REPLACEME-->/r data.html' -e '/<!--REPLACEME-->/d' <<< "$page_template" > done.html
 
-# Move the finished file and rename it to index.html into www/bing folder and restart apache2 to update the web server.
-#sudo cp done.html /var/www/bing/index.html 
-#sudo systemctl restart apache2
+# Move the finished file and rename it to index.html into www/bing folder and restart apache2 to update the web server. 
+# Used to update the apache server automaticly instead of having to manually update the index.html from the done.html file for every fix in the code
+    #sudo cp done.html /var/www/bing/index.html 
+    #sudo systemctl restart apache2
