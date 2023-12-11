@@ -23,7 +23,7 @@ cut -f 5 table.txt > column5.txt
 awk 'match($0, /href="([^"]*)"/){print "https://en.wikipedia.org" substr($0, RSTART+6, RLENGTH-7)}' column2.txt > data.txt
 
 # Extract coordinates from individual municipality URLs
-truncate -s 0 coordata.txt # Reset coordata in case the file exist so that the data doesn't double up because of the >> redirection operator in the pintf section of the while loop.
+truncate -s 0 coordata.txt # Reset coordata.txt in case the file exist so that the data doesn't double up because of the >> redirection operator in the pintf section of the while loop.
 while read url; do
     pageHtml="$(curl -s "$url")"
     lat=$(echo "$pageHtml" | grep -o '<span class="latitude">[^<]*' | head -n 1 | sed 's/<span class="latitude">//' )
